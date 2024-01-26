@@ -139,4 +139,4 @@ function lacoDeRepeticao() {
 }
 
 lacoDeRepeticao();
-//lacoDeRepeticao();
+console.log("Pull request sucesso")
