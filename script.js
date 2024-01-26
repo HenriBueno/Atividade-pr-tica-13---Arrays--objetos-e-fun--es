@@ -139,3 +139,4 @@ function lacoDeRepeticao() {
 }
 
 lacoDeRepeticao();
+//lacoDeRepeticao();
